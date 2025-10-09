@@ -1,173 +1,152 @@
-# 🧭 Backend .NET Developer Roadmap
+# ASP.NET Backend Developer Roadmap
 
-> 🚀 A complete learning roadmap to become a **Backend .NET Developer**, from beginner to advanced level.  
-> Structured into phases, weeks, and trusted resources with practical exercises and project ideas.
+## Phase 0: Basics
 
-[![Roadmap](https://img.shields.io/badge/Roadmap-.NET-blue)]()
----
+### Week 1
+- [Backend Roadmap](https://youtu.be/CVgzp2vfePs?si=_zppgfcQ-MOkcPix)
+- [What is ASP.NET](https://youtu.be/hTt-Je4PKmI?si=a6232OJn9m678DYF)
+- [HTML Crash Course](https://youtu.be/q3yFo-t1ykw?si=hIR_rUKYsXxGV-A_)
+- [CSS Crash Course](https://youtu.be/Z-5QVutAEW4?si=v0bUAriyZDltS-3L)
+- [Browser Dev Tools](https://youtu.be/_IKTGQosYMo?si=rOTDTG-ChIXI6uwI)
 
-## 📚 Overview
-This repository is designed to help you learn **C#, ASP.NET Core, Databases, and modern backend practices** step-by-step.  
-You’ll find phases (0–4), each divided into weekly learning goals and linked resources (videos, docs, and exercises).
-
----
-
-## 🧩 How to Use This Roadmap
-1. Start from **Phase 0** (fundamentals) and move up in order.  
-2. Each **week** includes key topics + learning materials.  
-3. Practice what you learn — small console apps, database scripts, or APIs.  
-4. Fork this repo, take notes, and share your progress.  
-5. Contribute if you find better resources!
+### Week 2: Version Control (Git & GitHub)
+- [Git & GitHub - Big Data course](https://youtu.be/Q6G-J54vgKc?si=smUUMZtCb07epb9K)
+- [Git & GitHub - Elzero course](https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&si=I3ow5bkkMvl2CBih)
+- [OSI Layers](https://youtu.be/A31bxOyj5mk?si=9acUHOjWF7wGW0pb)
 
 ---
 
-# 🏁 Phase 0 — Fundamentals
+## Phase 1: Beginner
 
-### **Week 1 — Web & Internet Basics**
-> Understand how the web works, client-server model, and basic frontend concepts.
+### Week 1: C# Basics
+- [Piece of Cake Dev](https://youtube.com/playlist?list=PLfHpC6JZ316dbrFn-jAwMBZwMqkcAabWB&si=jzdDGGSOz3Ok5dAZ) *(1:19)*
+- [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NT0H8J71qe7edwRpAirfqOI)
+- [Codographia](https://youtube.com/playlist?list=PLX1bW_GeBRhCU9l7examhVrARmXHHRrLR&si=fb-w5dS3XwPl8N7E)
+- [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
 
-| Topic | Description | Link |
-|-------|--------------|------|
-| 🌐 Backend Overview | What backend developers do and tools they use | [YouTube – Backend Roadmap](https://youtu.be/CVgzp2vfePs?si=_zppgfcQ-MOkcPix) |
-| ⚙️ ASP.NET Intro | Overview of ASP.NET and its role in backend dev | [YouTube – What is ASP.NET](https://youtu.be/hTt-Je4PKmI?si=a6232OJn9m678DYF) |
-| 🧱 HTML Basics | Learn structure of web pages | [YouTube – HTML Crash Course](https://youtu.be/q3yFo-t1ykw?si=hIR_rUKYsXxGV-A_) |
-| 🎨 CSS Basics | Style your web pages with CSS | [YouTube – CSS Crash Course](https://youtu.be/Z-5QVutAEW4?si=v0bUAriyZDltS-3L) |
-| 🔍 Browser Tools | Learn to debug and inspect using DevTools | [YouTube – DevTools Guide](https://youtu.be/_IKTGQosYMo?si=rOTDTG-ChIXI6uwI) |
+### Week 2: Object-Oriented Programming (OOP)
+- [Piece of Cake Dev](https://youtube.com/playlist?list=PLfHpC6JZ316f6YXKyux0dHjJXA0Kg38p7&si=4bgIt3I7mKu0ZoJb) *(1:16)*
+- [ITI Recordings](https://drive.google.com/drive/folders/1WbY2Doyapd6FJmM1-vU7A-0VutZMluS-)
+- [Codographia](https://youtube.com/playlist?list=PLX1bW_GeBRhAfq0EsDHH4YemBAd6G-H75&si=Doy7YZ6XG9rfsIjA)
+- [Metigator 7 -> 22](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
 
----
+### Week 3: Generics & Collections
+- [Piece of Cake Dev](https://youtube.com/playlist?list=PLfHpC6JZ316ciHMql4eXK1zfzuttajevf&si=KWCvLoQVPCy0e6Yv) *(1:7)*
+- [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
+- [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhBbnebNayUDYlQJRBKwZKlo)
 
-### **Week 2 — Git & GitHub**
-> Learn version control, branching, and collaborating using GitHub.
+### Week 4: Delegates & Events
+- [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NQYhO7NqlBTrJX_Nsk3SmyY) *(1:4)*
+- [Piece of Cake Dev](https://youtube.com/playlist?list=PLfHpC6JZ316dwb3MN8W6XuBuyaTA8RVaW&si=e0R3vaBE43yLksHH) *(2:5)*
 
-| Topic | Description | Link |
-|-------|--------------|------|
-| 🧠 Git Basics | Complete Git and GitHub workflow | [YouTube – Big Data Git Course](https://youtu.be/Q6G-J54vgKc?si=smUUMZtCb07epb9K) |
-| 🧩 Git in Depth | Branching, merging, pull requests | [Elzero Git & GitHub Playlist](https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF) |
-| 🌐 Networking Basics | Understand OSI layers and communication | [YouTube – OSI Layers](https://youtu.be/A31bxOyj5mk?si=9acUHOjWF7wGW0pb) |
+### Week 5: async & await
+- [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NQYhO7NqlBTrJX_Nsk3SmyY) *(5:6)*
+- [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
+- [ITI Content](https://youtube.com/playlist?list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_)
 
----
+### Week 6: SOLID Principles & Bootstrap
+- [Passionate Coders](https://youtube.com/playlist?list=PLsV97AQt78NRT1GmH2EJ-o-2_ILFM9feq&si=5xNsgfvGiqCR2bcs) *(1:5)*
+- [Omar Ahmed](https://youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV&si=hJ_ZVrALDIw3hocr)
+- [Abdelrahman Gamal](https://youtu.be/EzHbZjXDdKc?si=CIQ4Tndy5LU73yr2) *(1)*
 
-# ⚙️ Phase 1 — C# & Object-Oriented Programming
+### Week 7: SQL Server Basics
+- [Eng Eldesoky](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE) *(1:23)*
+- [ITI Recordings](https://youtube.com/playlist?list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_&si=ar2HDGvREar0xoEy)
+- [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RP_OovpgjoHLkCVaYFy-aj)
 
-### **Week 1 — C# Basics**
-> Learn syntax, data types, operators, and control flow.
+### Week 8: SQL Server Advanced
+- [Eng Eldesoky](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE) *(24:44)*
+- [ITI Recordings](https://youtube.com/playlist?list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_&si=ar2HDGvREar0xoEy)
+- [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RP_OovpgjoHLkCVaYFy-aj)
 
-| Resource | Description | Link |
-|-----------|--------------|------|
-| 📘 Piece of Cake Dev | Great beginner series covering all fundamentals | [C# Basics Playlist](https://youtube.com/playlist?list=PLfHpC6JZ316dbrFn-jAwMBZwMqkcAabWB) |
-| 🎓 Passionate Coders | Step-by-step explanations with real examples | [C# for Beginners](https://www.youtube.com/playlist?list=PLsV97AQt78NT0H8J71qe7edwRpAirfqOI) |
-| 💡 Codographia | Covers C# topics with Arabic explanations | [C# Course](https://youtube.com/playlist?list=PLX1bW_GeBRhCU9l7examhVrARmXHHRrLR) |
-| 🧩 Metigator | Short lessons focusing on fundamentals | [C# Training Series](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l) |
+## Phase 2: Intermediate
 
----
+### Week 1: LINQ Basics
+- [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6Sj1Y4xJuJoWCuqleeG2yt6) *(1:10)*
+- [ITI Recordings](https://www.youtube.com/playlist?list=PLesfn4TAj57XPaxXcGQ2mmBGyfvrvV_Aa)
+- Recommended: [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTXdgLMPnCwqriZX1yZ_Kgib)
+- [Hassouna Academy](https://www.youtube.com/playlist?list=PLHIfW1KZRIfnW4RDln5tzw6htvNhnkr7t)
 
-### **Week 2 — Object-Oriented Programming (OOP)**
-> Understand how to model and structure software using OOP principles.
+### Week 2: LINQ Advanced
+- [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6Sj1Y4xJuJoWCuqleeG2yt6) *(11:18)*
+- [ITI Recordings](https://www.youtube.com/playlist?list=PLesfn4TAj57XPaxXcGQ2mmBGyfvrvV_Aa) 
+- [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTXdgLMPnCwqriZX1yZ_Kgib)
+- [Hassouna Academy](https://www.youtube.com/playlist?list=PLHIfW1KZRIfnW4RDln5tzw6htvNhnkr7t)
 
-- 🧱 Topics: Classes, Inheritance, Encapsulation, Polymorphism, Abstraction.  
-- 🧩 Exercise: Build a small **Library System** or **Bank Account** app to practice inheritance and overriding.  
-- 📺 Recommended: [OOP in C# - Piece of Cake Dev](https://www.youtube.com/playlist?list=PLfHpC6JZ316dbrFn-jAwMBZwMqkcAabWB)
+### Week 3: Algorithms
+- [Adel Nasim](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp) *(24 → 37)*
+- [KMR Script - More details in Algorithms](https://youtube.com/playlist?list=PLL2zWZTDFZzjxarUL23ydiOgibhRipGYC&si=6ZVmL5yys_zh8qej)
 
----
-
-### **Week 3 — Collections & Generics**
-> Work with dynamic data and reusable methods.
-
-- 📦 Learn about `List<T>`, `Dictionary<TKey, TValue>`, `Stack<T>`, `Queue<T>`.  
-- 🧩 Practice generic methods and custom collection logic.  
-- 🎥 [Generics & Collections - Codographia](https://youtube.com/playlist?list=PLX1bW_GeBRhCU9l7examhVrARmXHHRrLR)
-
----
-
-### **Week 4 — Delegates & Events**
-> Learn event-driven programming and callbacks.
-
-- 🔗 Understand `delegate`, `event`, and `Action`/`Func`.  
-- 🧠 Implement a small **Notification System** using events.  
-- 🎥 [Delegates & Events - Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NT0H8J71qe7edwRpAirfqOI)
-
----
-
-### **Week 5 — Async & Await**
-> Write responsive and non-blocking code.
-
-- ⏳ Learn the async/await pattern and `Task` class.  
-- 🧩 Practice with file I/O or API calls.  
-- 🎥 [Async Programming - Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
+### Week 4: Design Patterns
+- [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR) *(1:8 & 14:16)*
+- [Metigator](https://youtube.com/playlist?list=PL4n1Qos4Tb6STYkwXrOdYxj_dlGqzozZN&si=dF1mR9D0tKGVemvm)
+- [DevGeeks](https://youtube.com/playlist?list=PLd-dOEgzBpGnt3GuEszo_piQq52XSqAmj&si=KNSXGjJNqFUDZbWv) *(20)*
+- [Refactoring Guru - Article](https://refactoring.guru/design-patterns/csharp)
 
 ---
 
-### **Week 6 — SOLID Principles & Clean Code**
-> Master maintainable and scalable coding practices.
+## Phase 3: Framework (ASP.NET Core)
 
-- 🧠 Study the 5 SOLID principles.  
-- 🧩 Refactor an existing project using **Dependency Injection (DI)**.  
-- 📺 [SOLID Explained - DevCreed](https://www.youtube.com/@DevCreed)
+### Week 1: ASP.NET Core MVC Basics
+- [ITI Recordings](https://youtube.com/playlist?list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL&si=LYnDGQ5WKdg0BgP1) *(1:5)*
+- [Coding Future](https://youtube.com/playlist?list=PLPZvv4Sjz6uHtXszCb132o7Oe_T_ur2FP&si=E8qpemfHszksIlCV)
+- [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=1SmbO7d9-eFBHsQ-)
+- [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTWqGYP-f1pHkbLYdbqi_Uhg)
 
----
+### Week 2: ASP.NET Core MVC
+- [ITI Recordings](https://youtube.com/playlist?list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL&si=LYnDGQ5WKdg0BgP1) *(6:9)*
+- [Coding Future](https://youtube.com/playlist?list=PLPZvv4Sjz6uHtXszCb132o7Oe_T_ur2FP&si=E8qpemfHszksIlCV)
+- [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=1SmbO7d9-eFBHsQ-)
+- [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTWqGYP-f1pHkbLYdbqi_Uhg)
 
-# 🗄️ Phase 2 — Database & Data Access
+### Week 3: ASP.NET Core MVC
+- [ITI Recordings](https://youtube.com/playlist?list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL&si=LYnDGQ5WKdg0BgP1) *(10:13)*
+- [Coding Future](https://youtube.com/playlist?list=PLPZvv4Sjz6uHtXszCb132o7Oe_T_ur2FP&si=E8qpemfHszksIlCV)
+- [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=1SmbO7d9-eFBHsQ-)
+- [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTWqGYP-f1pHkbLYdbqi_Uhg)
 
-### **SQL Server & Entity Framework Core**
-> Learn how to store, retrieve, and manage data efficiently.
+### Week 4: ASP.NET Core MVC
+- [ITI Recordings](https://youtube.com/playlist?list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL&si=LYnDGQ5WKdg0BgP1) *(14:16)*
+- [Coding Future](https://youtube.com/playlist?list=PLPZvv4Sjz6uHtXszCb132o7Oe_T_ur2FP&si=E8qpemfHszksIlCV)
+- [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=1SmbO7d9-eFBHsQ-)
+- [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTWqGYP-f1pHkbLYdbqi_Uhg)
 
-| Topic | Description | Link |
-|-------|--------------|------|
-| 🧱 SQL Server Basics | SQL syntax, relationships, queries | [SQL Course – Eng Eldesoky](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE) |
-| 🧩 LINQ | Query collections using LINQ syntax | [LINQ – Metigator](https://www.youtube.com/@Metigator) |
-| 🧰 Entity Framework Core | ORM for C# — migrations, CRUD, relationships | [EF Core – DevCreed](https://www.youtube.com/@DevCreed) |
+### Week 5: ASP.NET Core MVC
+- [ITI Recordings](https://youtube.com/playlist?list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL&si=LYnDGQ5WKdg0BgP1) *(17:19)*
+- [Coding Future](https://youtube.com/playlist?list=PLPZvv4Sjz6uHtXszCb132o7Oe_T_ur2FP&si=E8qpemfHszksIlCV)
+- [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=1SmbO7d9-eFBHsQ-)
+- [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTWqGYP-f1pHkbLYdbqi_Uhg)
 
----
+### Week 6: ASP.NET Core API
+- [ITI Recordings](https://youtube.com/playlist?list=PLoRh0POuk1RyWlnOvUtDvRQ1aTmz69W8L&si=sPtxcx5iIzlWvC9h) *(1:2)*
+- [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh) *(1:4)*
+- [مبادرة رودا مصر الرقمية (Highly Recommended)](https://drive.google.com/drive/folders/1Ifg6PtZ63XqntLSJnT_jHgxlfa5UypoO)
 
-# 🧠 Phase 3 — Advanced Topics
+### Week 7: ASP.NET Core API
+- [ITI Recordings](https://youtube.com/playlist?list=PLoRh0POuk1RyWlnOvUtDvRQ1aTmz69W8L) *(3)*
+- [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh) *(5:10)*
+- [مبادرة رودا مصر الرقمية](https://drive.google.com/drive/folders/1Ifg6PtZ63XqntLSJnT_jHgxlfa5UypoO)
 
-> Deepen your understanding with core computer science and design concepts.
+### Week 8: ASP.NET Core API
+- [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh) *(11:14)*
+- [مبادرة رودا مصر الرقمية](https://drive.google.com/drive/folders/1Ifg6PtZ63XqntLSJnT_jHgxlfa5UypoO)
 
-| Topic | Description | Link |
-|-------|--------------|------|
-| 🧮 Algorithms & Data Structures | Essential for interviews & performance | [Adel Nasim – Algorithms Course](https://www.youtube.com/@AdelNasim) |
-| 🏗️ Design Patterns | Reusable OOP solutions (Factory, Repository, etc.) | [Refactoring Guru – Design Patterns](https://refactoring.guru/design-patterns) |
-| 💡 Clean Architecture | Layered architecture for maintainable apps | [YouTube – Clean Architecture C#](https://www.youtube.com/@PassionateCoders) |
+### Week 9: Repository Pattern
+- [DevCreed](https://youtube.com/playlist?list=PL62tSREI9C-e6nQ47brLj00iSGddiee73&si=O5kyChTjJ7DOCsyI)
 
----
+### Week 10: API Security with JWT
+- [DevCreed](https://www.youtube.com/playlist?list=PL62tSREI9C-eYNE1Pyw0yv1tETs5V8WGd)
 
-# 🌐 Phase 4 — ASP.NET Core Framework
+### Week 11: JWT Refresh Tokens
+- [DevCreed](https://youtube.com/playlist?list=PL62tSREI9C-foV0zXVpW_f0JNtTD6Wv2W&si=ktSslxKHncrctHwc)
 
-### **ASP.NET Core MVC & Web API**
-> Build modern, scalable, and secure backend systems.
+### Week 12: SignalR for Real-Time Applications
+- [ITI Recordings](https://www.youtube.com/playlist?list=PLesfn4TAj57WLtiWtHP1Xkel7WD6QHvpe)
 
-| Topic | Description | Link |
-|-------|--------------|------|
-| 🧩 MVC | Learn ASP.NET MVC framework | [MVC – Coding Future](https://www.youtube.com/@CodingFuture) |
-| 🌐 Web API | RESTful API development | [Web API – Passionate Coders](https://www.youtube.com/@PassionateCoders) |
-| 🔐 Authentication | JWT, Refresh Tokens, Role-based access | [DevCreed Security Playlist](https://www.youtube.com/@DevCreed) |
-| ⚡ Real-Time | SignalR for real-time chat/notifications | [SignalR – ITI Recordings](https://youtube.com/playlist?list=PLesfn4TAj57WLtiWtHP1Xkel7WD6QHvpe) |
-| ☁️ Cloud Deployment | Azure App Service, Docker Containers | [Azure – ITI Recordings](https://youtube.com/playlist?list=PLesfn4TAj57WWPBzcEIGEfwzCPpw27-Lu) |
+### Week 13: Microsoft Azure Cloud Services
+- [ITI Recordings](https://youtube.com/playlist?list=PLesfn4TAj57WWPBzcEIGEfwzCPpw27-Lu&si=JjZf80QVb0XGxXAc)
 
----
+### Week 14: Software Containerization & Docker
+- [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NTJTBGKI0GE3eJc2Q_SC2B-)
+- [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhCS2TJvGgu38P-Rf9aNXKZD)
 
-# 🧰 Extra Topics
-| Area | Description | Link |
-|------|--------------|------|
-| 🧩 Docker | Containerize and deploy .NET apps | [Docker – Passionate Coders](https://www.youtube.com/@PassionateCoders) |
-| ☁️ Azure | Learn basics of cloud deployment | [Azure – ITI Recordings](https://youtube.com/playlist?list=PLesfn4TAj57WWPBzcEIGEfwzCPpw27-Lu) |
-| ⚙️ DevOps Basics | CI/CD pipelines, GitHub Actions | [DevOps – Microsoft Learn](https://learn.microsoft.com/en-us/devops/) |
-
----
-
-## 📆 Suggested Study Plan
-| Phase | Duration | Focus |
-|-------|-----------|-------|
-| Phase 0 | 2 weeks | Web basics + Git |
-| Phase 1 | 6–8 weeks | C#, OOP, async, SOLID |
-| Phase 2 | 4–6 weeks | SQL, LINQ, EF Core |
-| Phase 3 | 4–6 weeks | Algorithms, Design Patterns |
-| Phase 4 | 8–12 weeks | MVC, Web API, Auth, Docker, Azure |
-
-> 🕓 Adjust duration according to your schedule — consistency is key!
-
----
-
-## 📚 References
-Main sources:  
-**DevCreed, ITI Recordings, Passionate Coders, Codographia, Metigator, Piece of Cake Dev, Refactoring.Guru, Microsoft Learn**
