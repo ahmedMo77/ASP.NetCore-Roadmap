@@ -1,5 +1,8 @@
-# ASP.NET Backend Developer Roadmap
+# Backend .NET Developer Roadmap
 
+> This repository is a personal **learning roadmap** to become a junior **Backend .NET Developer**, from beginner to advanced level.  
+> Structured in clear phases, weeks, and resources.
+[![Roadmap](https://img.shields.io/badge/roadmap-.NET-blue)]()
 ## Phase 0: Basics
 
 ### Week 1
@@ -150,3 +153,17 @@
 - [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NTJTBGKI0GE3eJc2Q_SC2B-)
 - [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhCS2TJvGgu38P-Rf9aNXKZD)
 
+## 📆 Suggested Study Plan
+| Phase | Duration | Focus |
+|-------|-----------|-------|
+| Phase 0 | 2 weeks | Web basics + Git |
+| Phase 1 | 6–8 weeks | C#, OOP, async, SOLID |
+| Phase 2 | 4–6 weeks | SQL, LINQ, EF Core |
+| Phase 3 | 4–6 weeks | Algorithms, Design Patterns |
+| Phase 4 | 8–12 weeks | MVC, Web API, Auth, Docker, Azure |
+
+> 🕓 Adjust duration according to your schedule — consistency is key!
+
+## 📚 References
+Main sources:  
+**DevCreed, ITI Egypt, Passionate Coders, Codographia, Metigator, Piece of Cake Dev**
