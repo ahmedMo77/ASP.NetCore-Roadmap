@@ -45,7 +45,6 @@
 ### Week 5: async & await
 - [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NQYhO7NqlBTrJX_Nsk3SmyY) *(5:6)*
 - [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
-- [ITI Content](https://youtube.com/playlist?list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_)
 
 ### Week 6: SOLID Principles & Bootstrap
 - [Passionate Coders](https://youtube.com/playlist?list=PLsV97AQt78NRT1GmH2EJ-o-2_ILFM9feq&si=5xNsgfvGiqCR2bcs) *(1:5)*
