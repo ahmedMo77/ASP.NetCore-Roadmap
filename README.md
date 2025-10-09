@@ -4,8 +4,6 @@
 > Structured into phases, weeks, and trusted resources with practical exercises and project ideas.
 
 [![Roadmap](https://img.shields.io/badge/Roadmap-.NET-blue)]()
-[![License](https://img.shields.io/badge/License-MIT-green)]()
-
 ---
 
 ## 📚 Overview
