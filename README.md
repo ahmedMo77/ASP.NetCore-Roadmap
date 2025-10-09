@@ -76,11 +76,22 @@
 - [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTXdgLMPnCwqriZX1yZ_Kgib)
 - [Hassouna Academy](https://www.youtube.com/playlist?list=PLHIfW1KZRIfnW4RDln5tzw6htvNhnkr7t)
 
-### Week 3: Algorithms
+### Weak 3: EF Core
+- [DevCreed](https://www.youtube.com/playlist?list=PL62tSREI9C-cHV28v-EqWinveTTAos8Pp) [1:37]
+- [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6QZkbTWJx7wHqEABP8Pg6uv)
+- [ITI Recordings](https://www.youtube.com/playlist?list=PLesfn4TAj57WisNpNGLPCS1donYYAEQSI) Recommended
+- [Ahmed M9ohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTVSVQ5k3UUMgj3RP8Qczwve)
+### Weak 4: EF Core
+- [DevCreed](https://www.youtube.com/playlist?list=PL62tSREI9C-cHV28v-EqWinveTTAos8Pp) [54:70]
+- [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6QZkbTWJx7wHqEABP8Pg6uv)
+- [ITI Recordings](https://www.youtube.com/playlist?list=PLesfn4TAj57WisNpNGLPCS1donYYAEQSI) Recommended
+- [Ahmed M9ohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTVSVQ5k3UUMgj3RP8Qczwve)
+
+### Week 5: Algorithms
 - [Adel Nasim](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp) *(24 → 37)*
 - [KMR Script - More details in Algorithms](https://youtube.com/playlist?list=PLL2zWZTDFZzjxarUL23ydiOgibhRipGYC&si=6ZVmL5yys_zh8qej)
 
-### Week 4: Design Patterns
+### Week 6: Design Patterns
 - [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR) *(1:8 & 14:16)*
 - [Metigator](https://youtube.com/playlist?list=PL4n1Qos4Tb6STYkwXrOdYxj_dlGqzozZN&si=dF1mR9D0tKGVemvm)
 - [DevGeeks](https://youtube.com/playlist?list=PLd-dOEgzBpGnt3GuEszo_piQq52XSqAmj&si=KNSXGjJNqFUDZbWv) *(20)*
@@ -157,10 +168,9 @@
 | Phase | Duration | Focus |
 |-------|-----------|-------|
 | Phase 0 | 2 weeks | Web basics + Git |
-| Phase 1 | 6–8 weeks | C#, OOP, async, SOLID |
-| Phase 2 | 4–6 weeks | SQL, LINQ, EF Core |
-| Phase 3 | 4–6 weeks | Algorithms, Design Patterns |
-| Phase 4 | 8–12 weeks | MVC, Web API, Auth, Docker, Azure |
+| Phase 1 | 8–10 weeks | C#, OOP, async, SOLID, SQL |
+| Phase 2 | 6–8 weeks | LINQ, EF Core, Algorithms, Design Patterns |
+| Phase 3 | 12–18 weeks | MVC, Web API, Auth, Docker, Azure |
 
 > 🕓 Adjust duration according to your schedule — consistency is key!
 
