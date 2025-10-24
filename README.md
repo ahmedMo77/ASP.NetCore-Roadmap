@@ -1,8 +1,5 @@
 # Backend .NET Developer Roadmap
 
-> This repository is a personal **learning roadmap** to become a junior **Backend .NET Developer**, from beginner to advanced level.  
-> Structured in clear phases, weeks, and resources.
-[![Roadmap](https://img.shields.io/badge/roadmap-.NET-blue)]()
 ## Phase 0: Basics
 
 ### Week 1
