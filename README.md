@@ -12,7 +12,7 @@
 - [Browser Dev Tools](https://youtu.be/_IKTGQosYMo?si=rOTDTG-ChIXI6uwI)
 
 ### Week 2: Version Control (Git & GitHub)
-- [Git & GitHub - Big Data course](https://youtu.be/Q6G-J54vgKc?si=smUUMZtCb07epb9K) [Recommended]
+- [Git & GitHub - Big Data course](https://youtu.be/Q6G-J54vgKc?si=smUUMZtCb07epb9K) *(Recommended)*
 - [Git & GitHub - Elzero course](https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&si=I3ow5bkkMvl2CBih)
 
 ---
