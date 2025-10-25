@@ -1,18 +1,19 @@
-# Backend .NET Developer Roadmap
+# Backend .NET Roadmap
 
 ## Phase 0: Basics
 
-### Week 1
+### Introduction
 - [Backend Roadmap](https://youtu.be/CVgzp2vfePs?si=_zppgfcQ-MOkcPix)
 - [What is ASP.NET](https://youtu.be/hTt-Je4PKmI?si=a6232OJn9m678DYF)
+
+### Week 1: Web basics
 - [HTML Crash Course](https://youtu.be/q3yFo-t1ykw?si=hIR_rUKYsXxGV-A_)
 - [CSS Crash Course](https://youtu.be/Z-5QVutAEW4?si=v0bUAriyZDltS-3L)
 - [Browser Dev Tools](https://youtu.be/_IKTGQosYMo?si=rOTDTG-ChIXI6uwI)
 
 ### Week 2: Version Control (Git & GitHub)
-- [Git & GitHub - Big Data course](https://youtu.be/Q6G-J54vgKc?si=smUUMZtCb07epb9K)
+- [Git & GitHub - Big Data course](https://youtu.be/Q6G-J54vgKc?si=smUUMZtCb07epb9K) [Recommended]
 - [Git & GitHub - Elzero course](https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&si=I3ow5bkkMvl2CBih)
-- [OSI Layers](https://youtu.be/A31bxOyj5mk?si=9acUHOjWF7wGW0pb)
 
 ---
 
@@ -43,10 +44,9 @@
 - [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NQYhO7NqlBTrJX_Nsk3SmyY) *(5:6)*
 - [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
 
-### Week 6: SOLID Principles & Bootstrap
+### Week 6: SOLID Principles
 - [Passionate Coders](https://youtube.com/playlist?list=PLsV97AQt78NRT1GmH2EJ-o-2_ILFM9feq&si=5xNsgfvGiqCR2bcs) *(1:5)*
 - [Omar Ahmed](https://youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV&si=hJ_ZVrALDIw3hocr)
-- [Abdelrahman Gamal](https://youtu.be/EzHbZjXDdKc?si=CIQ4Tndy5LU73yr2) *(1)*
 
 ### Week 7: SQL Server Basics
 - [Eng Eldesoky](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE) *(1:23)*
@@ -63,7 +63,7 @@
 ### Week 1: LINQ Basics
 - [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6Sj1Y4xJuJoWCuqleeG2yt6) *(1:10)*
 - [ITI Recordings](https://www.youtube.com/playlist?list=PLesfn4TAj57XPaxXcGQ2mmBGyfvrvV_Aa)
-- Recommended: [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTXdgLMPnCwqriZX1yZ_Kgib)
+- [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTXdgLMPnCwqriZX1yZ_Kgib)
 - [Hassouna Academy](https://www.youtube.com/playlist?list=PLHIfW1KZRIfnW4RDln5tzw6htvNhnkr7t)
 
 ### Week 2: LINQ Advanced
@@ -73,19 +73,19 @@
 - [Hassouna Academy](https://www.youtube.com/playlist?list=PLHIfW1KZRIfnW4RDln5tzw6htvNhnkr7t)
 
 ### Weak 3: EF Core
-- [DevCreed](https://www.youtube.com/playlist?list=PL62tSREI9C-cHV28v-EqWinveTTAos8Pp) [1:37]
+- [DevCreed](https://www.youtube.com/playlist?list=PL62tSREI9C-cHV28v-EqWinveTTAos8Pp) *(1:37)*
 - [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6QZkbTWJx7wHqEABP8Pg6uv)
-- [ITI Recordings](https://www.youtube.com/playlist?list=PLesfn4TAj57WisNpNGLPCS1donYYAEQSI) Recommended
-- [Ahmed M9ohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTVSVQ5k3UUMgj3RP8Qczwve)
-### Weak 4: EF Core
-- [DevCreed](https://www.youtube.com/playlist?list=PL62tSREI9C-cHV28v-EqWinveTTAos8Pp) [54:70]
-- [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6QZkbTWJx7wHqEABP8Pg6uv)
-- [ITI Recordings](https://www.youtube.com/playlist?list=PLesfn4TAj57WisNpNGLPCS1donYYAEQSI) Recommended
+- [ITI Recordings](https://www.youtube.com/playlist?list=PLesfn4TAj57WisNpNGLPCS1donYYAEQSI)
 - [Ahmed M9ohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTVSVQ5k3UUMgj3RP8Qczwve)
 
-### Week 5: Algorithms
-- [Adel Nasim](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp) *(24 → 37)*
-- [KMR Script - More details in Algorithms](https://youtube.com/playlist?list=PLL2zWZTDFZzjxarUL23ydiOgibhRipGYC&si=6ZVmL5yys_zh8qej)
+### Weak 4: EF Core
+- [DevCreed](https://www.youtube.com/playlist?list=PL62tSREI9C-cHV28v-EqWinveTTAos8Pp) *(54:70)*
+- [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6QZkbTWJx7wHqEABP8Pg6uv)
+- [ITI Recordings](https://www.youtube.com/playlist?list=PLesfn4TAj57WisNpNGLPCS1donYYAEQSI)
+- [Ahmed M9ohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTVSVQ5k3UUMgj3RP8Qczwve)
+
+### Week 5: Bootstrap
+- [Abdelrahman Gamal](https://youtu.be/EzHbZjXDdKc?si=2s6KoN_Nz4okXpFB) *(1)*
 
 ### Week 6: Design Patterns
 - [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR) *(1:8 & 14:16)*
@@ -130,7 +130,7 @@
 ### Week 6: ASP.NET Core API
 - [ITI Recordings](https://youtube.com/playlist?list=PLoRh0POuk1RyWlnOvUtDvRQ1aTmz69W8L&si=sPtxcx5iIzlWvC9h) *(1:2)*
 - [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh) *(1:4)*
-- [مبادرة رودا مصر الرقمية (Highly Recommended)](https://drive.google.com/drive/folders/1Ifg6PtZ63XqntLSJnT_jHgxlfa5UypoO)
+- [مبادرة رودا مصر الرقمية](https://drive.google.com/drive/folders/1Ifg6PtZ63XqntLSJnT_jHgxlfa5UypoO)
 
 ### Week 7: ASP.NET Core API
 - [ITI Recordings](https://youtube.com/playlist?list=PLoRh0POuk1RyWlnOvUtDvRQ1aTmz69W8L) *(3)*
