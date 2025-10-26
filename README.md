@@ -104,59 +104,53 @@
 - [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTWqGYP-f1pHkbLYdbqi_Uhg)
 
 ### Week 2: ASP.NET Core MVC
-- [ITI Recordings](https://youtube.com/playlist?list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL&si=LYnDGQ5WKdg0BgP1) *(6:9)*
+- [ITI Recordings](https://youtube.com/playlist?list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL&si=LYnDGQ5WKdg0BgP1) *(6:11)*
 - [Coding Future](https://youtube.com/playlist?list=PLPZvv4Sjz6uHtXszCb132o7Oe_T_ur2FP&si=E8qpemfHszksIlCV)
 - [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=1SmbO7d9-eFBHsQ-)
 - [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTWqGYP-f1pHkbLYdbqi_Uhg)
 
 ### Week 3: ASP.NET Core MVC
-- [ITI Recordings](https://youtube.com/playlist?list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL&si=LYnDGQ5WKdg0BgP1) *(10:13)*
+- [ITI Recordings](https://youtube.com/playlist?list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL&si=LYnDGQ5WKdg0BgP1) *(12:15)*
 - [Coding Future](https://youtube.com/playlist?list=PLPZvv4Sjz6uHtXszCb132o7Oe_T_ur2FP&si=E8qpemfHszksIlCV)
 - [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=1SmbO7d9-eFBHsQ-)
 - [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTWqGYP-f1pHkbLYdbqi_Uhg)
 
 ### Week 4: ASP.NET Core MVC
-- [ITI Recordings](https://youtube.com/playlist?list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL&si=LYnDGQ5WKdg0BgP1) *(14:16)*
+- [ITI Recordings](https://youtube.com/playlist?list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL&si=LYnDGQ5WKdg0BgP1) *(16:19)*
 - [Coding Future](https://youtube.com/playlist?list=PLPZvv4Sjz6uHtXszCb132o7Oe_T_ur2FP&si=E8qpemfHszksIlCV)
 - [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=1SmbO7d9-eFBHsQ-)
 - [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTWqGYP-f1pHkbLYdbqi_Uhg)
 
-### Week 5: ASP.NET Core MVC
-- [ITI Recordings](https://youtube.com/playlist?list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL&si=LYnDGQ5WKdg0BgP1) *(17:19)*
-- [Coding Future](https://youtube.com/playlist?list=PLPZvv4Sjz6uHtXszCb132o7Oe_T_ur2FP&si=E8qpemfHszksIlCV)
-- [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=1SmbO7d9-eFBHsQ-)
-- [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTWqGYP-f1pHkbLYdbqi_Uhg)
-
-### Week 6: ASP.NET Core API
+### Week 5: ASP.NET Core API
 - [ITI Recordings](https://youtube.com/playlist?list=PLoRh0POuk1RyWlnOvUtDvRQ1aTmz69W8L&si=sPtxcx5iIzlWvC9h) *(1:2)*
 - [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh) *(1:4)*
 - [مبادرة رودا مصر الرقمية](https://drive.google.com/drive/folders/1Ifg6PtZ63XqntLSJnT_jHgxlfa5UypoO)
 
-### Week 7: ASP.NET Core API
+### Week 6: ASP.NET Core API
 - [ITI Recordings](https://youtube.com/playlist?list=PLoRh0POuk1RyWlnOvUtDvRQ1aTmz69W8L) *(3)*
 - [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh) *(5:10)*
 - [مبادرة رودا مصر الرقمية](https://drive.google.com/drive/folders/1Ifg6PtZ63XqntLSJnT_jHgxlfa5UypoO)
 
-### Week 8: ASP.NET Core API
+### Week 7: ASP.NET Core API
 - [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh) *(11:14)*
 - [مبادرة رودا مصر الرقمية](https://drive.google.com/drive/folders/1Ifg6PtZ63XqntLSJnT_jHgxlfa5UypoO)
 
-### Week 9: Repository Pattern
+### Week 8: Repository Pattern
 - [DevCreed](https://youtube.com/playlist?list=PL62tSREI9C-e6nQ47brLj00iSGddiee73&si=O5kyChTjJ7DOCsyI)
 
-### Week 10: API Security with JWT
+### Week 9: API Security with JWT
 - [DevCreed](https://www.youtube.com/playlist?list=PL62tSREI9C-eYNE1Pyw0yv1tETs5V8WGd)
 
-### Week 11: JWT Refresh Tokens
+### Week 10: JWT Refresh Tokens
 - [DevCreed](https://youtube.com/playlist?list=PL62tSREI9C-foV0zXVpW_f0JNtTD6Wv2W&si=ktSslxKHncrctHwc)
 
-### Week 12: SignalR for Real-Time Applications
+### Week 11: SignalR for Real-Time Applications
 - [ITI Recordings](https://www.youtube.com/playlist?list=PLesfn4TAj57WLtiWtHP1Xkel7WD6QHvpe)
 
-### Week 13: Microsoft Azure Cloud Services
+### Week 12: Microsoft Azure Cloud Services
 - [ITI Recordings](https://youtube.com/playlist?list=PLesfn4TAj57WWPBzcEIGEfwzCPpw27-Lu&si=JjZf80QVb0XGxXAc)
 
-### Week 14: Software Containerization & Docker
+### Week 13: Software Containerization & Docker
 - [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NTJTBGKI0GE3eJc2Q_SC2B-)
 - [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhCS2TJvGgu38P-Rf9aNXKZD)
 
