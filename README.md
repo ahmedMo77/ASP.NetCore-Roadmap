@@ -3,6 +3,7 @@
 ## Phase 0: Basics
 
 ### Introduction
+- [Backend Talks - Ahmed Elemam](https://youtube.com/playlist?list=PLTRDUPO2OmInsCydQzPFgkYVJOD_mH5P9&si=PsNYV43EKN9YkhAB)
 - [Backend Roadmap](https://youtu.be/CVgzp2vfePs?si=_zppgfcQ-MOkcPix)
 - [What is ASP.NET](https://youtu.be/hTt-Je4PKmI?si=a6232OJn9m678DYF)
 
