@@ -3,7 +3,6 @@
 ## Phase 0: Basics
 
 ### Introduction
-- [Backend Talks - Ahmed Elemam](https://youtube.com/playlist?list=PLTRDUPO2OmInsCydQzPFgkYVJOD_mH5P9&si=PsNYV43EKN9YkhAB)
 - [How to Become a Good Backend Engineer - Hussein Nasser](https://youtu.be/V3ZPPPKEipA?si=lI7-Ppj-idldxwkX)
 - [Backend Roadmap](https://youtu.be/CVgzp2vfePs?si=_zppgfcQ-MOkcPix)
 - [What is ASP.NET](https://youtu.be/hTt-Je4PKmI?si=a6232OJn9m678DYF)
@@ -14,8 +13,9 @@
 - [Browser Dev Tools](https://youtu.be/_IKTGQosYMo?si=rOTDTG-ChIXI6uwI)
 
 ### Week 2: Version Control (Git & GitHub)
-- [Git & GitHub - Big Data course](https://youtu.be/Q6G-J54vgKc?si=smUUMZtCb07epb9K) *(Recommended)*
+- [Git & GitHub](https://youtube.com/playlist?list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR&si=Zejmsv8KPTQ0HyTj)
 - [Git & GitHub - Elzero course](https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&si=I3ow5bkkMvl2CBih)
+- [Git & GitHub - Big Data course](https://youtu.be/Q6G-J54vgKc?si=smUUMZtCb07epb9K) *(Deep Dive)*
 
 ---
 
