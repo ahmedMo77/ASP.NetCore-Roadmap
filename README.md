@@ -60,6 +60,8 @@
 - [ITI Recordings](https://youtube.com/playlist?list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_&si=ar2HDGvREar0xoEy)
 - [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RP_OovpgjoHLkCVaYFy-aj)
 
+---
+
 ## Phase 2: Intermediate
 
 ### Week 1: LINQ Basics
@@ -99,60 +101,80 @@
 
 ## Phase 3: Framework (ASP.NET Core)
 
-### Week 1: ASP.NET Core MVC Basics
+### Weak 1: HTTP Introduction
+- [Video 1](https://youtu.be/qmRuZdj_-a0?si=grYXmvL3leIozhWp)
+- [Video 2](https://youtu.be/ZBd_euecPBg?si=9f7-a_9jKIkvpXPQ)
+- [Video 3](https://youtu.be/VhPvduyAEkA?si=IiOf6ONlONKOpQFZ)
+
+### Week 2: ASP.NET Core MVC
 - [ITI Recordings](https://youtube.com/playlist?list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL&si=LYnDGQ5WKdg0BgP1) *(1:5)*
 - [Coding Future](https://youtube.com/playlist?list=PLPZvv4Sjz6uHtXszCb132o7Oe_T_ur2FP&si=E8qpemfHszksIlCV)
 - [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=1SmbO7d9-eFBHsQ-)
 - [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTWqGYP-f1pHkbLYdbqi_Uhg)
 
-### Week 2: ASP.NET Core MVC
+### Week 3: ASP.NET Core MVC
 - [ITI Recordings](https://youtube.com/playlist?list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL&si=LYnDGQ5WKdg0BgP1) *(6:11)*
 - [Coding Future](https://youtube.com/playlist?list=PLPZvv4Sjz6uHtXszCb132o7Oe_T_ur2FP&si=E8qpemfHszksIlCV)
 - [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=1SmbO7d9-eFBHsQ-)
 - [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTWqGYP-f1pHkbLYdbqi_Uhg)
 
-### Week 3: ASP.NET Core MVC
+### Week 4: ASP.NET Core MVC
 - [ITI Recordings](https://youtube.com/playlist?list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL&si=LYnDGQ5WKdg0BgP1) *(12:15)*
 - [Coding Future](https://youtube.com/playlist?list=PLPZvv4Sjz6uHtXszCb132o7Oe_T_ur2FP&si=E8qpemfHszksIlCV)
 - [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=1SmbO7d9-eFBHsQ-)
 - [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTWqGYP-f1pHkbLYdbqi_Uhg)
 
-### Week 4: ASP.NET Core MVC
+### Week 5: ASP.NET Core MVC
 - [ITI Recordings](https://youtube.com/playlist?list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL&si=LYnDGQ5WKdg0BgP1) *(16:19)*
 - [Coding Future](https://youtube.com/playlist?list=PLPZvv4Sjz6uHtXszCb132o7Oe_T_ur2FP&si=E8qpemfHszksIlCV)
 - [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=1SmbO7d9-eFBHsQ-)
 - [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTWqGYP-f1pHkbLYdbqi_Uhg)
 
-### Week 5: ASP.NET Core API
+### Week 6: ASP.NET Core API
 - [ITI Recordings](https://youtube.com/playlist?list=PLoRh0POuk1RyWlnOvUtDvRQ1aTmz69W8L&si=sPtxcx5iIzlWvC9h) *(1:2)*
 - [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh) *(1:4)*
 - [مبادرة رودا مصر الرقمية](https://drive.google.com/drive/folders/1Ifg6PtZ63XqntLSJnT_jHgxlfa5UypoO)
 
-### Week 6: ASP.NET Core API
+### Week 7: ASP.NET Core API
 - [ITI Recordings](https://youtube.com/playlist?list=PLoRh0POuk1RyWlnOvUtDvRQ1aTmz69W8L) *(3)*
 - [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh) *(5:10)*
 - [مبادرة رودا مصر الرقمية](https://drive.google.com/drive/folders/1Ifg6PtZ63XqntLSJnT_jHgxlfa5UypoO)
 
-### Week 7: ASP.NET Core API
+### Week 8: ASP.NET Core API
 - [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh) *(11:14)*
 - [مبادرة رودا مصر الرقمية](https://drive.google.com/drive/folders/1Ifg6PtZ63XqntLSJnT_jHgxlfa5UypoO)
+### Week 9: API Security with JWT Tokens & Refresh Tokens
+- [Jwt Token](https://www.youtube.com/playlist?list=PL62tSREI9C-eYNE1Pyw0yv1tETs5V8WGd)
+- [Jwt Refresh Token](https://youtube.com/playlist?list=PL62tSREI9C-foV0zXVpW_f0JNtTD6Wv2W&si=ktSslxKHncrctHwc)
 
-### Week 8: Repository Pattern
+---
+
+## Phase 4: Advanced Topics
+
+### Week 1: Repository Pattern
 - [DevCreed](https://youtube.com/playlist?list=PL62tSREI9C-e6nQ47brLj00iSGddiee73&si=O5kyChTjJ7DOCsyI)
 
-### Week 9: API Security with JWT
-- [DevCreed](https://www.youtube.com/playlist?list=PL62tSREI9C-eYNE1Pyw0yv1tETs5V8WGd)
+### Weak 2: AutoMapper
+- [Automapper Template](https://little-grow.notion.site/AutoMapper-af906e5017314d808aa8a169087c2ba8?pvs=143)
+- [Mohamed Lawand](https://youtu.be/87fhsf8gfDg?si=T1cWYs-hqEDB8xvE)
 
-### Week 10: JWT Refresh Tokens
-- [DevCreed](https://youtube.com/playlist?list=PL62tSREI9C-foV0zXVpW_f0JNtTD6Wv2W&si=ktSslxKHncrctHwc)
+### Weak 3: Caching
+- [Memory Cache](https://youtu.be/2jj2wH60QuE?si=4QLkNk9QJrKLTDer)
 
-### Week 11: SignalR for Real-Time Applications
+### Weak 4: Unit Testing
+- [Metigator](https://youtube.com/playlist?list=PL4n1Qos4Tb6RrQpmpGWALaE1PVvWR8d3A&si=f9WjgyDiA1VUJpVb)
+- [ITI Recording](https://youtube.com/playlist?list=PLNFDrRZdysFzu72k1YqrAppKCbVwamCKS&si=cPxQRrN3bqkV1uuc)
+
+### Weak 5: Clean Code
+- [ITI Recording](https://youtu.be/9QW2b7whhd0?si=HuyAkvl8_YBctuZ0)
+
+### Week 6: SignalR for Real-Time Applications
 - [ITI Recordings](https://www.youtube.com/playlist?list=PLesfn4TAj57WLtiWtHP1Xkel7WD6QHvpe)
 
-### Week 12: Microsoft Azure Cloud Services
+### Week 7: Microsoft Azure Cloud Services
 - [ITI Recordings](https://youtube.com/playlist?list=PLesfn4TAj57WWPBzcEIGEfwzCPpw27-Lu&si=JjZf80QVb0XGxXAc)
 
-### Week 13: Software Containerization & Docker
+### Week 8: Software Containerization & Docker
 - [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NTJTBGKI0GE3eJc2Q_SC2B-)
 - [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhCS2TJvGgu38P-Rf9aNXKZD)
 
@@ -162,7 +184,8 @@
 | Phase 0 | 2 weeks | Web basics + Git |
 | Phase 1 | 8–10 weeks | C#, OOP, async, SOLID, SQL |
 | Phase 2 | 6–8 weeks | LINQ, EF Core, Algorithms, Design Patterns |
-| Phase 3 | 12–18 weeks | MVC, Web API, Auth, Docker, Azure |
+| Phase 3 | 10–112 weeks | MVC, Web API, Auth |
+| Phase 4 | 10–12 weeks | Repo Pattern, Automapper, cashing, Docker, ..etc |
 
 > 🕓 Adjust duration according to your schedule — consistency is key!
 
