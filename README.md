@@ -101,49 +101,45 @@
 
 ## Phase 3: Framework (ASP.NET Core)
 
-### Weak 1: HTTP Introduction
-- [Video 1](https://youtu.be/qmRuZdj_-a0?si=grYXmvL3leIozhWp)
-- [Video 2](https://youtu.be/ZBd_euecPBg?si=9f7-a_9jKIkvpXPQ)
-- [Video 3](https://youtu.be/VhPvduyAEkA?si=IiOf6ONlONKOpQFZ)
+### Weak 1: MVC Introduction & HTTP Req & Res
+- [HTTP Request & Response](https://youtube.com/playlist?list=PL1BztTYDF-QPgfvPouABKLwfTKxB6z7gk&si=mH1JjFX5Riraz8UA) *(Only this videos [8 & 9 & 10])*
+- [ITI Recordings](https://youtube.com/playlist?list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL&si=LYnDGQ5WKdg0BgP1) *(1:3)*
+- [Coding Future](https://youtube.com/playlist?list=PLPZvv4Sjz6uHtXszCb132o7Oe_T_ur2FP&si=E8qpemfHszksIlCV)
+- [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=1SmbO7d9-eFBHsQ-)
+- [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTWqGYP-f1pHkbLYdbqi_Uhg)
 
 ### Week 2: ASP.NET Core MVC
-- [ITI Recordings](https://youtube.com/playlist?list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL&si=LYnDGQ5WKdg0BgP1) *(1:5)*
+- [ITI Recordings](https://youtube.com/playlist?list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL&si=LYnDGQ5WKdg0BgP1) *(4:9)*
 - [Coding Future](https://youtube.com/playlist?list=PLPZvv4Sjz6uHtXszCb132o7Oe_T_ur2FP&si=E8qpemfHszksIlCV)
 - [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=1SmbO7d9-eFBHsQ-)
 - [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTWqGYP-f1pHkbLYdbqi_Uhg)
 
 ### Week 3: ASP.NET Core MVC
-- [ITI Recordings](https://youtube.com/playlist?list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL&si=LYnDGQ5WKdg0BgP1) *(6:11)*
+- [ITI Recordings](https://youtube.com/playlist?list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL&si=LYnDGQ5WKdg0BgP1) *(10:15)*
 - [Coding Future](https://youtube.com/playlist?list=PLPZvv4Sjz6uHtXszCb132o7Oe_T_ur2FP&si=E8qpemfHszksIlCV)
 - [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=1SmbO7d9-eFBHsQ-)
 - [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTWqGYP-f1pHkbLYdbqi_Uhg)
 
 ### Week 4: ASP.NET Core MVC
-- [ITI Recordings](https://youtube.com/playlist?list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL&si=LYnDGQ5WKdg0BgP1) *(12:15)*
-- [Coding Future](https://youtube.com/playlist?list=PLPZvv4Sjz6uHtXszCb132o7Oe_T_ur2FP&si=E8qpemfHszksIlCV)
-- [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=1SmbO7d9-eFBHsQ-)
-- [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTWqGYP-f1pHkbLYdbqi_Uhg)
-
-### Week 5: ASP.NET Core MVC
 - [ITI Recordings](https://youtube.com/playlist?list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL&si=LYnDGQ5WKdg0BgP1) *(16:19)*
 - [Coding Future](https://youtube.com/playlist?list=PLPZvv4Sjz6uHtXszCb132o7Oe_T_ur2FP&si=E8qpemfHszksIlCV)
 - [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC&si=1SmbO7d9-eFBHsQ-)
 - [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTWqGYP-f1pHkbLYdbqi_Uhg)
 
-### Week 6: ASP.NET Core API
+### Week 5: ASP.NET Core API
 - [ITI Recordings](https://youtube.com/playlist?list=PLoRh0POuk1RyWlnOvUtDvRQ1aTmz69W8L&si=sPtxcx5iIzlWvC9h) *(1:2)*
 - [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh) *(1:4)*
 - [مبادرة رودا مصر الرقمية](https://drive.google.com/drive/folders/1Ifg6PtZ63XqntLSJnT_jHgxlfa5UypoO)
 
-### Week 7: ASP.NET Core API
+### Week 6: ASP.NET Core API
 - [ITI Recordings](https://youtube.com/playlist?list=PLoRh0POuk1RyWlnOvUtDvRQ1aTmz69W8L) *(3)*
 - [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh) *(5:10)*
 - [مبادرة رودا مصر الرقمية](https://drive.google.com/drive/folders/1Ifg6PtZ63XqntLSJnT_jHgxlfa5UypoO)
 
-### Week 8: ASP.NET Core API
+### Week 7: ASP.NET Core API
 - [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh) *(11:14)*
 - [مبادرة رودا مصر الرقمية](https://drive.google.com/drive/folders/1Ifg6PtZ63XqntLSJnT_jHgxlfa5UypoO)
-### Week 9: API Security with JWT Tokens & Refresh Tokens
+### Week 8: API Security with JWT Tokens & Refresh Tokens
 - [Jwt Token](https://www.youtube.com/playlist?list=PL62tSREI9C-eYNE1Pyw0yv1tETs5V8WGd)
 - [Jwt Refresh Token](https://youtube.com/playlist?list=PL62tSREI9C-foV0zXVpW_f0JNtTD6Wv2W&si=ktSslxKHncrctHwc)
 
@@ -184,7 +180,7 @@
 | Phase 0 | 2 weeks | Web basics + Git |
 | Phase 1 | 8–10 weeks | C#, OOP, async, SOLID, SQL |
 | Phase 2 | 6–8 weeks | LINQ, EF Core, Algorithms, Design Patterns |
-| Phase 3 | 10–112 weeks | MVC, Web API, Auth |
+| Phase 3 | 10–12 weeks | MVC, Web API, Auth |
 | Phase 4 | 10–12 weeks | Repo Pattern, Automapper, cashing, Docker, ..etc |
 
 > 🕓 Adjust duration according to your schedule — consistency is key!
