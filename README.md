@@ -101,7 +101,7 @@
 
 ## Phase 3: Framework (ASP.NET Core)
 
-### Weak 1: MVC Introduction & HTTP Req & Res
+### Weak 1: MVC & HTTP Introduction
 - [HTTP Request & Response](https://youtube.com/playlist?list=PL1BztTYDF-QPgfvPouABKLwfTKxB6z7gk&si=mH1JjFX5Riraz8UA) *(Only this videos [8 & 9 & 10])*
 - [ITI Recordings](https://youtube.com/playlist?list=PLNFDrRZdysFzmzqno6G1EoxhIKo5sKiwL&si=LYnDGQ5WKdg0BgP1) *(1:3)*
 - [Coding Future](https://youtube.com/playlist?list=PLPZvv4Sjz6uHtXszCb132o7Oe_T_ur2FP&si=E8qpemfHszksIlCV)
