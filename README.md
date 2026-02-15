@@ -132,11 +132,12 @@
 - [مبادرة رودا مصر الرقمية](https://drive.google.com/drive/folders/1Ifg6PtZ63XqntLSJnT_jHgxlfa5UypoO)
 
 ### Week 6: ASP.NET Core API
-- [ITI Recordings](https://youtube.com/playlist?list=PLoRh0POuk1RyWlnOvUtDvRQ1aTmz69W8L) *(3)*
+- [ITI Recordings](https://youtube.com/playlist?list=PLoRh0POuk1RyWlnOvUtDvRQ1aTmz69W8L) *(3:4)*
 - [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh) *(5:10)*
 - [مبادرة رودا مصر الرقمية](https://drive.google.com/drive/folders/1Ifg6PtZ63XqntLSJnT_jHgxlfa5UypoO)
 
 ### Week 7: ASP.NET Core API
+- [ITI Recordings](https://youtube.com/playlist?list=PLoRh0POuk1RyWlnOvUtDvRQ1aTmz69W8L&si=sPtxcx5iIzlWvC9h) *(5:6)*
 - [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh) *(11:14)*
 - [مبادرة رودا مصر الرقمية](https://drive.google.com/drive/folders/1Ifg6PtZ63XqntLSJnT_jHgxlfa5UypoO)
 ### Week 8: API Security with JWT Tokens & Refresh Tokens
